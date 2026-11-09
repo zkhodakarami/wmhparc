@@ -1,0 +1,97 @@
+value	ho_index	name	hemisphere	lobe
+1	0	Left Frontal Pole	left	frontal
+2	0	Right Frontal Pole	right	frontal
+3	1	Left Insular Cortex	left	insula
+4	1	Right Insular Cortex	right	insula
+5	2	Left Superior Frontal Gyrus	left	frontal
+6	2	Right Superior Frontal Gyrus	right	frontal
+7	3	Left Middle Frontal Gyrus	left	frontal
+8	3	Right Middle Frontal Gyrus	right	frontal
+9	4	Left Inferior Frontal Gyrus, pars triangularis	left	frontal
+10	4	Right Inferior Frontal Gyrus, pars triangularis	right	frontal
+11	5	Left Inferior Frontal Gyrus, pars opercularis	left	frontal
+12	5	Right Inferior Frontal Gyrus, pars opercularis	right	frontal
+13	6	Left Precentral Gyrus	left	frontal
+14	6	Right Precentral Gyrus	right	frontal
+15	7	Left Temporal Pole	left	temporal
+16	7	Right Temporal Pole	right	temporal
+17	8	Left Superior Temporal Gyrus, anterior division	left	temporal
+18	8	Right Superior Temporal Gyrus, anterior division	right	temporal
+19	9	Left Superior Temporal Gyrus, posterior division	left	temporal
+20	9	Right Superior Temporal Gyrus, posterior division	right	temporal
+21	10	Left Middle Temporal Gyrus, anterior division	left	temporal
+22	10	Right Middle Temporal Gyrus, anterior division	right	temporal
+23	11	Left Middle Temporal Gyrus, posterior division	left	temporal
+24	11	Right Middle Temporal Gyrus, posterior division	right	temporal
+25	12	Left Middle Temporal Gyrus, temporooccipital part	left	temporal
+26	12	Right Middle Temporal Gyrus, temporooccipital part	right	temporal
+27	13	Left Inferior Temporal Gyrus, anterior division	left	temporal
+28	13	Right Inferior Temporal Gyrus, anterior division	right	temporal
+29	14	Left Inferior Temporal Gyrus, posterior division	left	temporal
+30	14	Right Inferior Temporal Gyrus, posterior division	right	temporal
+31	15	Left Inferior Temporal Gyrus, temporooccipital part	left	temporal
+32	15	Right Inferior Temporal Gyrus, temporooccipital part	right	temporal
+33	16	Left Postcentral Gyrus	left	parietal
+34	16	Right Postcentral Gyrus	right	parietal
+35	17	Left Superior Parietal Lobule	left	parietal
+36	17	Right Superior Parietal Lobule	right	parietal
+37	18	Left Supramarginal Gyrus, anterior division	left	parietal
+38	18	Right Supramarginal Gyrus, anterior division	right	parietal
+39	19	Left Supramarginal Gyrus, posterior division	left	parietal
+40	19	Right Supramarginal Gyrus, posterior division	right	parietal
+41	20	Left Angular Gyrus	left	parietal
+42	20	Right Angular Gyrus	right	parietal
+43	21	Left Lateral Occipital Cortex, superior division	left	occipital
+44	21	Right Lateral Occipital Cortex, superior division	right	occipital
+45	22	Left Lateral Occipital Cortex, inferior division	left	occipital
+46	22	Right Lateral Occipital Cortex, inferior division	right	occipital
+47	23	Left Intracalcarine Cortex	left	occipital
+48	23	Right Intracalcarine Cortex	right	occipital
+49	24	Left Frontal Medial Cortex	left	frontal
+50	24	Right Frontal Medial Cortex	right	frontal
+51	25	Left Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)	left	frontal
+52	25	Right Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex)	right	frontal
+53	26	Left Subcallosal Cortex	left	frontal
+54	26	Right Subcallosal Cortex	right	frontal
+55	27	Left Paracingulate Gyrus	left	frontal
+56	27	Right Paracingulate Gyrus	right	frontal
+57	28	Left Cingulate Gyrus, anterior division	left	cingulate
+58	28	Right Cingulate Gyrus, anterior division	right	cingulate
+59	29	Left Cingulate Gyrus, posterior division	left	cingulate
+60	29	Right Cingulate Gyrus, posterior division	right	cingulate
+61	30	Left Precuneous Cortex	left	parietal
+62	30	Right Precuneous Cortex	right	parietal
+63	31	Left Cuneal Cortex	left	occipital
+64	31	Right Cuneal Cortex	right	occipital
+65	32	Left Frontal Orbital Cortex	left	frontal
+66	32	Right Frontal Orbital Cortex	right	frontal
+67	33	Left Parahippocampal Gyrus, anterior division	left	temporal
+68	33	Right Parahippocampal Gyrus, anterior division	right	temporal
+69	34	Left Parahippocampal Gyrus, posterior division	left	temporal
+70	34	Right Parahippocampal Gyrus, posterior division	right	temporal
+71	35	Left Lingual Gyrus	left	occipital
+72	35	Right Lingual Gyrus	right	occipital
+73	36	Left Temporal Fusiform Cortex, anterior division	left	temporal
+74	36	Right Temporal Fusiform Cortex, anterior division	right	temporal
+75	37	Left Temporal Fusiform Cortex, posterior division	left	temporal
+76	37	Right Temporal Fusiform Cortex, posterior division	right	temporal
+77	38	Left Temporal Occipital Fusiform Cortex	left	temporal
+78	38	Right Temporal Occipital Fusiform Cortex	right	temporal
+79	39	Left Occipital Fusiform Gyrus	left	occipital
+80	39	Right Occipital Fusiform Gyrus	right	occipital
+81	40	Left Frontal Operculum Cortex	left	frontal
+82	40	Right Frontal Operculum Cortex	right	frontal
+83	41	Left Central Opercular Cortex	left	frontal
+84	41	Right Central Opercular Cortex	right	frontal
+85	42	Left Parietal Operculum Cortex	left	parietal
+86	42	Right Parietal Operculum Cortex	right	parietal
+87	43	Left Planum Polare	left	temporal
+88	43	Right Planum Polare	right	temporal
+89	44	Left Heschl's Gyrus (includes H1 and H2)	left	temporal
+90	44	Right Heschl's Gyrus (includes H1 and H2)	right	temporal
+91	45	Left Planum Temporale	left	temporal
+92	45	Right Planum Temporale	right	temporal
+93	46	Left Supracalcarine Cortex	left	occipital
+94	46	Right Supracalcarine Cortex	right	occipital
+95	47	Left Occipital Pole	left	occipital
+96	47	Right Occipital Pole	right	occipital

@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wmhparc"
+version = "0.1.0"
+description = "Regional parcellation of white matter hyperintensities (WMH) with MNI-space atlases: Chung 20-ROI bullseye, CoBrALab pathophysiology clusters and a 36-region bullseye, with ANTs-based subject-to-template registration."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "wmhparc contributors"}]
+dependencies = [
+    "numpy>=1.22",
+    "scipy>=1.8",
+    "nibabel>=4.0",
+    "pandas>=1.4",
+]
+
+[project.optional-dependencies]
+ants = ["antspyx>=0.4"]
+test = ["pytest>=7"]
+
+[project.scripts]
+wmhparc = "wmhparc.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["wmhparc*"]
+
+[tool.setuptools.package-data]
+wmhparc = ["data/luts/*.tsv", "data/*.tsv", "data/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
